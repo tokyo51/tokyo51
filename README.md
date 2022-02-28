@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @tokyo51
-- 👀 I’m interested in IT security, Linux & Python
-- 🌱 I’m currently learning Python
+- Hi, I’m @tokyo51
+- 🥴 Linux Arch user
+- 👽 Fan of the Unixporn Community
+- 👀 Interested in IT sec, Linux & Python, everything about IT...
+- 💡 Currently learning Python
 - 📫 Contact me: tokyo51@protonmail.com
-- 窓は吸う
